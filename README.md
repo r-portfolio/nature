@@ -4,7 +4,7 @@ Project was developed with modern JavaScript and AJAX
 
 <br>
 
-This project was developed with the latest tecnologies of the market.
+This project was developed with the latest technologies in the market.
 
 HTML
 <br>
