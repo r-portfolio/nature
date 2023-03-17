@@ -16,8 +16,3 @@ CSS Grid Layout
 <br>
 JavaScript
 
-### Visual do Projeto
-
-![Nature](https://renatoschroepfer.com/img/work/natureza/home.png)
-
-<br>
